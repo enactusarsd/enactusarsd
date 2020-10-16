@@ -1,0 +1,13 @@
+{
+  "name": "enactusarsd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/enactusarsd/enactusarsd",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
